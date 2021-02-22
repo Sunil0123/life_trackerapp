@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#A80847</color>
+    <color name="colorPrimaryDark">#A80847</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white">#F1EDED</color>
+    <color name="red">#D50000</color>
+    <color name="green">#00C853</color>
+    <color name="colorRipple">#A9A9F5</color>
+    <color name="unread">#00FFFFFF</color>
+    <color name="read">#A7FFFFFF</color>
+    <color name="black">#0C0B0B</color>
+    <color name="purple">#3A0488</color>
+    <color name="upi_icon_bg">#DBDEF1</color>
+    <color name="tifin_item_devider">#0F1019</color>
+    <color name="grey">#1B1B1C</color>
+
+    <color name="mykitchetoolbat">#9C033F</color>
+    <color name="successgreen">#028008</color>
+    <color name="pinkripple">#DF075C</color>
+    <color name="bottom_nav_bg">#E9E7EC</color>
+    <color name="item_selcted_false">#5353DA</color>
+    <color name="sub_plan_layout_title">#A9A9F5</color>
+    <color name="layouts_bg">#EAEAEF</color>
+    <color name="fortytransparent">#4FFFFFFF</color>
+
+    <color name="menupink">#E7F30462</color>
+    <color name="menuyellow">#E3F57C00</color>
+    <color name="menublue">#E02E036C</color>
+    <color name="menured">#E4BC0505</color>
+    <color name="menugreen">#E2048F0B</color>
+
+    <color name="ratefive">#177702</color>
+    <color name="ratefour">#078704</color>
+    <color name="ratethree">#FFA000</color>
+    <color name="ratetwo">#D56C00</color>
+    <color name="ratingone">#C80202</color>
+
+    <color name="starcolorempty">#bebebe</color>
+
+    <color name="subplaninfo">#D0CDD8</color>
+    <color name="subplaninfobg">#1B0259</color>
+
+    <color name="orderitembg">#FBFBFB</color>
+
+
+    <color name="pausered">#B50404</color>
+    <color name="pausegreen">#028E08</color>
+    <color name="darkwhite">#605E61</color>
+    <color name="imagebg">#D7D9E6</color>
+    <color name="imagebgdark">#D9DCEF</color>
+    <color name="imagebgfaint">#E8E9F1</color>
+    <color name="menu_itembg">#CFD7F3</color>
+    <color name="purewhite">#FFFFFF</color>
+    <color name="extradarkimagebg">#A9A4AE</color>
+
+    <color name="blue">#8E09C6</color>
+
+
+
+
+
+
+
+
+
+</resources>
+

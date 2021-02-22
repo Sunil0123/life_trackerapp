@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165332496901",
+    "project_id": "tcs-life-tracker",
+    "storage_bucket": "tcs-life-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165332496901:android:912bddf9306841d6da626c",
+        "android_client_info": {
+          "package_name": "com.example.lifetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165332496901-1j8rp2n4fo335rocap2i1m2c4u440e4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArCnff299UHpjxaq_-iXS8RMFe0yxlXB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165332496901-1j8rp2n4fo335rocap2i1m2c4u440e4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
